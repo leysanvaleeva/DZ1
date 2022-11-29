@@ -1,0 +1,15 @@
+C:\Users\79872\Desktop\dz\Zad6\bin\Debug\net7.0\Zad6.exe
+C:\Users\79872\Desktop\dz\Zad6\bin\Debug\net7.0\Zad6.deps.json
+C:\Users\79872\Desktop\dz\Zad6\bin\Debug\net7.0\Zad6.runtimeconfig.json
+C:\Users\79872\Desktop\dz\Zad6\bin\Debug\net7.0\Zad6.dll
+C:\Users\79872\Desktop\dz\Zad6\bin\Debug\net7.0\Zad6.pdb
+C:\Users\79872\Desktop\dz\Zad6\obj\Debug\net7.0\Zad6.csproj.AssemblyReference.cache
+C:\Users\79872\Desktop\dz\Zad6\obj\Debug\net7.0\Zad6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79872\Desktop\dz\Zad6\obj\Debug\net7.0\Zad6.AssemblyInfoInputs.cache
+C:\Users\79872\Desktop\dz\Zad6\obj\Debug\net7.0\Zad6.AssemblyInfo.cs
+C:\Users\79872\Desktop\dz\Zad6\obj\Debug\net7.0\Zad6.csproj.CoreCompileInputs.cache
+C:\Users\79872\Desktop\dz\Zad6\obj\Debug\net7.0\Zad6.dll
+C:\Users\79872\Desktop\dz\Zad6\obj\Debug\net7.0\refint\Zad6.dll
+C:\Users\79872\Desktop\dz\Zad6\obj\Debug\net7.0\Zad6.pdb
+C:\Users\79872\Desktop\dz\Zad6\obj\Debug\net7.0\Zad6.genruntimeconfig.cache
+C:\Users\79872\Desktop\dz\Zad6\obj\Debug\net7.0\ref\Zad6.dll
