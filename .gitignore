@@ -1,6 +1,6 @@
-bin
+bin/
 
-obj
+obj/
 
 Zad2.csproj
 
@@ -12,4 +12,4 @@ Zad7.csproj
 
 Zad8.csproj
 
-
+.gitignore
